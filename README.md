@@ -15,9 +15,9 @@ The Vision Transformer (ViT) has become a foundational architecture for both ima
   Monitored loss curves and gradient flow to verify convergence during training.  
 
 ### In Progress
-- ⬜ **Visualize Learned Positional Embeddings**  
+- ✅ **Visualize Learned Positional Embeddings**  
   Examine the positional embeddings learned during training to understand their role in feature representation.  
-- ⬜ **Visualize Attention Maps**  
+- ✅ **Visualize Attention Maps**  
   Generate and analyze attention maps for selected images to interpret how the model attends to different regions.  
 - ⬜ **Load Pretrained Weights**  
   Incorporate pretrained weights into the model for transfer learning.  
