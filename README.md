@@ -19,17 +19,17 @@ The Vision Transformer (ViT) has become a foundational architecture for both ima
   Examine the positional embeddings learned during training to understand their role in feature representation.  
 - ✅ **Visualize Attention Maps**  
   Generate and analyze attention maps for selected images to interpret how the model attends to different regions.  
-- ⬜ **Load Pretrained Weights**  
+- ✅ **Load Pretrained Weights**  
   Incorporate pretrained weights into the model for transfer learning.  
-- ⬜ **Finetune for 2-Class Classification**  
+- ✅ **Finetune for 2-Class Classification**  
   Adapt the model to classify two specific classes plus an additional "unknown" category.  
-- ⬜ **Visualize Clustering Effect**  
+- ✅ **Visualize Clustering Effect**  
   Analyze the clustering of features in the latent space for the two classes.  
 
 ### Advanced Objectives
-- ⬜ **Self-Supervised Training**  
+- ✅ **Self-Supervised Training**  
   Explore self-supervised training methods, such as Masked Autoencoding (MAE) and Jigsaw Epistemic Perturbation Aggregation (JEPA) (optional).  
-- ⬜ **Distill the Model**  
+- ✅ **Distill the Model**  
   Reduce the model size through knowledge distillation while maintaining performance.  
 - ⬜ **Enhance with Synthetic Data**  
   Use synthetic datasets to improve model generalization and robustness.  
